@@ -9,3 +9,5 @@ Code is available after the publication
 2.	Must temporal and spatial combination -> Inspired from optical flowing (1D LSTM) + 2D CNN (Frequency) ->
 3.	channel squeeze (CHZ-Net)
 
+Do not consider the time-consuming.
+Optical flow or feature vector or RGB difference (using HOG?).
