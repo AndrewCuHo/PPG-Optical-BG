@@ -11,3 +11,8 @@ Code is available after the publication
 
 Do not consider the time-consuming.
 Optical flow or feature vector or RGB difference (using HOG?).
+
+## Model
+1.  Using U-transformer.
+2.  Baseline VGG, ResNet, ViT.
+3.  Add LSTM gate like (iformer + multi task gate + LSTM-Trasnformer)
