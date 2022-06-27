@@ -15,4 +15,5 @@ Optical flow or feature vector or RGB difference (using HOG?).
 ## Model
 1.  Using U-transformer.
 2.  Baseline VGG, ResNet, ViT.
-3.  Add LSTM gate like (iformer + multi task gate + LSTM-Trasnformer)
+3.  Add LSTM gate like for Two-Stream -> connection like U-net
+4.  Complete One Stream, How to  add the optical wave stream ? 
