@@ -16,4 +16,5 @@ Optical flow or feature vector or RGB difference (using HOG?).
 1.  Using U-transformer.
 2.  Baseline VGG, ResNet, ViT.
 3.  Add LSTM gate like for Two-Stream -> connection like U-net
-4.  Complete One Stream, How to  add the optical wave stream ? 
+4.  Complete One Stream, How to  add the optical wave stream ?
+5.  阈值判断怎么插入(用方差) RNN Gate? 
