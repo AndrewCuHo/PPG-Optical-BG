@@ -18,5 +18,5 @@ Optical flow or feature vector or RGB difference (using HOG?).
 3.  Add LSTM gate like for Two-Stream -> connection like U-net
 4.  Complete One Stream, How to  add the optical wave stream ?
 5.  阈值判断怎么插入(用方差) RNN Gate? 
-6.  Supervised contrastive learning for tighting the connecttion between the stream (Like dsitilation)
 7.  Autoformer 引入信号相关求seasonal相关性
+8.  采用distilation方式引导HOG|Flow stream 与主网络连接
