@@ -20,3 +20,4 @@ Optical flow or feature vector or RGB difference (using HOG?).
 5.  阈值判断怎么插入(用方差) RNN Gate? 
 7.  Autoformer 引入信号相关求seasonal相关性
 8.  采用distilation方式引导HOG|Flow stream 与主网络连接
+9.  或者用transformer token合并方式做特征融合
