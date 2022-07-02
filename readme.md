@@ -13,11 +13,10 @@ Do not consider the time-consuming.
 Optical flow or feature vector or RGB difference (using HOG?).
 
 ## Model
-1.  Using U-transformer.
-2.  Baseline VGG, ResNet, ViT.
 3.  Add LSTM gate like for Two-Stream -> connection like U-net
 4.  Complete One Stream, How to  add the optical wave stream ?
-5.  阈值判断怎么插入(用方差) RNN Gate? 
+
 7.  Autoformer 引入信号相关求seasonal相关性
-8.  采用distilation方式引导HOG|Flow stream 与主网络连接
+8.  采用distilation方式引导Diff stream 与主网络连接
 9.  或者用transformer token合并方式做特征融合
+Temporal Fusion Transformers 分成3段， 按照backbone的高低频+一个辅助段落做 supervised contrastive learning, 阈值判断怎么插入(用方差) RNN Gate
